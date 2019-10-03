@@ -4,8 +4,12 @@ Or soon to be one. This is my attempt to reverse engineer the binary file format
 
 [Demo](https://uwatchfaces.kabbi.dev)
 
-# TODO:
+![20.bin](./public/images/20.bmp)
+![22.bin](./public/images/22.bmp)
+![hs.bin](./public/images/hs.png)
 
-[ ] document watchface file format
-[ ] make proper watchface editor
-[ ] remove copyrighted binaries from repo
+# TODO
+
+- [ ] document watchface file format
+- [ ] make proper watchface editor
+- [ ] remove copyrighted binaries from repo
